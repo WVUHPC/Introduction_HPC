@@ -293,6 +293,8 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<!--
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
@@ -332,6 +334,9 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
+-->
+
+<!--
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
@@ -354,6 +359,8 @@ change the value of `carpentry` to `pilot`.
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
+
+-->
 
 <hr/>
 
